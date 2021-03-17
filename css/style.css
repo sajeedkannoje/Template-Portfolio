@@ -8,15 +8,15 @@ body ,html{
 
 /* custom font family */
 @font-face {
-    src: url(/font/Couriers.ttf);
+    src: url(../font/Couriers.ttf);
     font-family:Couriers;
 }
 @font-face {
-    src: url(/font/DotGothic16-Regular.ttf);
+    src: url..(/font/DotGothic16-Regular.ttf);
     font-family:dot;
 }
 @font-face {
-    src: url(/font/TYPEWR_B.TTF);
+    src: url(../font/TYPEWR_B.TTF);
     font-family:type;
 }
 /* custom font family end */
