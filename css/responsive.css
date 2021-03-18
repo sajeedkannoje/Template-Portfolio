@@ -46,9 +46,11 @@
     .social-icon{
         top: 30%;
     }
+
     .icons a{
         font-size: 12px;
         padding: 0 12px;
+        margin: 0 10px;
 
     }
 
