@@ -128,7 +128,7 @@ video{
   
 }
 .info h1 {
-    font-family: type;
+    font-family: monospace;
     letter-spacing: 2px;
     font-size: 50px;
     margin: 0;
