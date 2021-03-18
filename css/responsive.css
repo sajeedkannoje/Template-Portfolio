@@ -34,7 +34,7 @@
     }
     .info h1 {
         font-size: 16px;
-        z-index: 1;
+        margin: 8px;
     }
     .info h2{
        margin: 0;
